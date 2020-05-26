@@ -1,0 +1,350 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2020.5.24)  26 MAY 2020 23:20
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/jaerka/vsCode/Threads/main.tex
+(/home/jaerka/vsCode/Threads/main.tex
+LaTeX2e <2019-10-01> patch level 1
+(/usr/share/texmf-dist/tex/latex/extsizes/extarticle.cls
+Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2019/08/27 v1.4j Standard LaTeX file (size option)
+) (/usr/share/texmf-dist/tex/latex/base/exscale.sty
+Package: exscale 2018/09/24 v2.1i Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen102
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+) (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+) (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/10/08 v1.3c Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+) (/usr/share/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+ (/usr/share/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count88
+\c@Blindtext=\count89
+\c@blind@countparstart=\count90
+\blind@countxx=\count91
+\blindtext@numBlindtext=\count92
+\blind@countyy=\count93
+\c@blindlist=\count94
+\c@blindlistlevel=\count95
+\c@blindlist@level=\count96
+\blind@listitem=\count97
+\c@blind@listcount=\count98
+\c@blind@levelcount=\count99
+\blind@mathformula=\count100
+\blind@Mathformula=\count101
+\c@blind@randomcount=\count102
+\c@blind@randommax=\count103
+\c@blind@pangramcount=\count104
+\c@blind@pangrammax=\count105
+) (/usr/share/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip43
+\enit@outerparindent=\dimen106
+\enit@toks=\toks15
+\enit@inbox=\box27
+\enit@count@id=\count106
+\enitdp@description=\count107
+) (/home/jaerka/vsCode/Threads/main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+ (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count108
+\scratchdimen=\dimen107
+\scratchbox=\box28
+\nofMPsegments=\count109
+\nofMParguments=\count110
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count111
+\MPscratchDim=\dimen108
+\MPnumerator=\count112
+\makeMPintoPDFobject=\count113
+\everyMPtoPDFconversion=\toks17
+) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+ (/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+) (/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+ (/usr/share/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+ (/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))) (/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+ (/usr/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+ (/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+ (/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)))) (/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+ (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <7> on input line 17.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+<images/client-server communication.png, id=9, 1210.5225pt x 445.665pt>
+File: images/client-server communication.png Graphic file (type png)
+<use images/client-server communication.png>
+Package pdftex.def Info: images/client-server communication.png  used on input line 51.
+(pdftex.def)             Requested size: 426.79236pt x 312.98341pt.
+
+Overfull \hbox (36.79236pt too wide) in paragraph at lines 51--52
+ [] 
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 68--71
+
+ []
+
+[3 </home/jaerka/vsCode/Threads/images/client-server communication.png>] [4]
+<images/TCP-IP software stack.png, id=19, 644.4075pt x 390.45876pt>
+File: images/TCP-IP software stack.png Graphic file (type png)
+<use images/TCP-IP software stack.png>
+Package pdftex.def Info: images/TCP-IP software stack.png  used on input line 125.
+(pdftex.def)             Requested size: 426.80486pt x 312.993pt.
+
+Overfull \hbox (36.80486pt too wide) in paragraph at lines 125--126
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--134
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--134
+
+ []
+
+[5 </home/jaerka/vsCode/Threads/images/TCP-IP software stack.png>]
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 143.
+ (/usr/share/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 143.
+ [6]
+<images/Process through TCP sockets.png, id=27, 1327.96124pt x 633.36626pt>
+File: images/Process through TCP sockets.png Graphic file (type png)
+<use images/Process through TCP sockets.png>
+Package pdftex.def Info: images/Process through TCP sockets.png  used on input line 181.
+(pdftex.def)             Requested size: 426.77995pt x 256.07703pt.
+
+Overfull \hbox (36.77995pt too wide) in paragraph at lines 181--182
+ [] 
+ []
+
+[7 </home/jaerka/vsCode/Threads/images/Process through TCP sockets.png>]
+<images/client-welcoming-connection socket.png, id=32, 1324.95pt x 530.98375pt>
+File: images/client-welcoming-connection socket.png Graphic file (type png)
+<use images/client-welcoming-connection socket.png>
+Package pdftex.def Info: images/client-welcoming-connection socket.png  used on input line 194.
+(pdftex.def)             Requested size: 426.78262pt x 341.44075pt.
+
+Overfull \hbox (36.78262pt too wide) in paragraph at lines 194--195
+ [] 
+ []
+
+
+Overfull \hbox (11.61528pt too wide) in paragraph at lines 200--202
+[]\OT1/cmr/m/n/12 Because sock-ets play a cen-tral role in client/server ap-pli-ca-tions, client/server
+ []
+
+[8 </home/jaerka/vsCode/Threads/images/client-welcoming-connection socket.png>]
+<images/TCP client-server.png, id=36, 1121.18875pt x 797.98125pt>
+File: images/TCP client-server.png Graphic file (type png)
+<use images/TCP client-server.png>
+Package pdftex.def Info: images/TCP client-server.png  used on input line 220.
+(pdftex.def)             Requested size: 426.7918pt x 256.0776pt.
+
+Overfull \hbox (36.7918pt too wide) in paragraph at lines 220--221
+ [] 
+ []
+
+[9 </home/jaerka/vsCode/Threads/images/TCP client-server.png>]
+<images/UDP client-server.png, id=40, 1130.2225pt x 647.41875pt>
+File: images/UDP client-server.png Graphic file (type png)
+<use images/UDP client-server.png>
+Package pdftex.def Info: images/UDP client-server.png  used on input line 251.
+(pdftex.def)             Requested size: 426.78143pt x 142.26462pt.
+
+Overfull \hbox (36.78143pt too wide) in paragraph at lines 251--252
+ [] 
+ []
+
+[10] [11 </home/jaerka/vsCode/Threads/images/UDP client-server.png>]
+<images/thread.png, id=47, 700.6175pt x 402.50375pt>
+File: images/thread.png Graphic file (type png)
+<use images/thread.png>
+Package pdftex.def Info: images/thread.png  used on input line 294.
+(pdftex.def)             Requested size: 426.79875pt x 341.42964pt.
+
+Overfull \hbox (36.79875pt too wide) in paragraph at lines 294--295
+ [] 
+ []
+
+[12 </home/jaerka/vsCode/Threads/images/thread.png>]
+<images/multithreaded.png, id=51, 629.35126pt x 220.825pt>
+File: images/multithreaded.png Graphic file (type png)
+<use images/multithreaded.png>
+Package pdftex.def Info: images/multithreaded.png  used on input line 313.
+(pdftex.def)             Requested size: 426.79121pt x 256.0864pt.
+
+Overfull \hbox (36.79121pt too wide) in paragraph at lines 313--314
+ [] 
+ []
+
+[13 </home/jaerka/vsCode/Threads/images/multithreaded.png>] [14]
+Underfull \hbox (badness 10000) in paragraph at lines 349--352
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--359
+
+ []
+
+[15]
+Overfull \hbox (1.72787pt too wide) in paragraph at lines 370--371
+[]\OT1/cmr/m/n/12 The most ob-vi-ous ad-van-tage of this tech-nique is that a user-level threads
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 373--375
+
+ []
+
+[16]
+<images/many-to-one.png, id=65, 424.58624pt x 468.75125pt>
+File: images/many-to-one.png Graphic file (type png)
+<use images/many-to-one.png>
+Package pdftex.def Info: images/many-to-one.png  used on input line 400.
+(pdftex.def)             Requested size: 426.81386pt x 284.52162pt.
+
+Overfull \hbox (36.81386pt too wide) in paragraph at lines 400--401
+ [] 
+ []
+
+[17 </home/jaerka/vsCode/Threads/images/many-to-one.png>]
+<images/one-to-one.png, id=69, 606.265pt x 289.08pt>
+File: images/one-to-one.png Graphic file (type png)
+<use images/one-to-one.png>
+Package pdftex.def Info: images/one-to-one.png  used on input line 416.
+(pdftex.def)             Requested size: 426.79707pt x 227.62082pt.
+
+Overfull \hbox (36.79707pt too wide) in paragraph at lines 416--417
+ [] 
+ []
+
+[18 </home/jaerka/vsCode/Threads/images/one-to-one.png>]
+<images/many-to-many.png, id=73, 486.81876pt x 453.695pt>
+File: images/many-to-many.png Graphic file (type png)
+<use images/many-to-many.png>
+Package pdftex.def Info: images/many-to-many.png  used on input line 433.
+(pdftex.def)             Requested size: 426.7899pt x 227.6223pt.
+
+Overfull \hbox (36.7899pt too wide) in paragraph at lines 433--434
+ [] 
+ []
+
+[19 </home/jaerka/vsCode/Threads/images/many-to-many.png>]
+<images/two-level.png, id=78, 551.05875pt x 431.6125pt>
+File: images/two-level.png Graphic file (type png)
+<use images/two-level.png>
+Package pdftex.def Info: images/two-level.png  used on input line 448.
+(pdftex.def)             Requested size: 426.80544pt x 227.62076pt.
+
+Overfull \hbox (36.80544pt too wide) in paragraph at lines 448--449
+ [] 
+ []
+
+
+Overfull \hbox (22.7471pt too wide) in paragraph at lines 455--456
+[]\OT1/cmr/m/n/12 https://www.geeksforgeeks.org/threads-and-its-types-in-operating-system/ 
+ []
+
+[20 </home/jaerka/vsCode/Threads/images/two-level.png>] (/home/jaerka/vsCode/Threads/main.aux) ) 
+Here is how much of TeX's memory you used:
+ 2100 strings out of 492167
+ 33943 string characters out of 6131558
+ 99758 words of memory out of 5000000
+ 6451 multiletter control sequences out of 15000+600000
+ 7684 words of font info for 28 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 46i,7n,30p,545b,264s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on /home/jaerka/vsCode/Threads/main.pdf (20 pages, 780273 bytes).
+PDF statistics:
+ 97 PDF objects out of 1000 (max. 8388607)
+ 58 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+
